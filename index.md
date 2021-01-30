@@ -9,3 +9,5 @@ description: Analytics Work During Graduate School
 This is content I've developed for my courses:
 - [Visualization](/graphing/index.md).
 
+This is my resume repository:
+- [Resume 10-09-2020]()
