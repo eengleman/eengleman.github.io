@@ -1,6 +1,6 @@
 ---
-title: Visualization
-description: Graphing Assignment Using Matplotlib
+title: Eric Engleman
+description: Visualization Using Matplotlib
 ---
 
 Here is a Graphing Analysis I use in my CTBA course.
