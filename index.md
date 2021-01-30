@@ -1,6 +1,6 @@
 ---
 title: Master of Science in Business Analytics
-description: Landing Page for Analytics Work During Graduate School
+description: Analytics Work During Graduate School
 ---
 
 
