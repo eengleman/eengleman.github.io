@@ -1,6 +1,6 @@
 ---
-title: Module 3
-description: Landing Page for Module 3 Assignment
+title: Master of Science in Business Analytics
+description: Landing Page for Analytics Work During Graduate School
 ---
 
 
