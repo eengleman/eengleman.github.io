@@ -9,4 +9,4 @@ Here is a Graphing Analysis I use in my CTBA course.
 
 
 Go back:
-- [Home Page](/index.md).
+- [Home Page](https://eengleman.github.io/).
