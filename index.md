@@ -4,6 +4,8 @@ description: Landing Page for Module 3 Assignment
 ---
 
 
+![Picture]()
+
 This is content I've developed for my courses:
 - [Visualization](/graphing/index.md).
 
