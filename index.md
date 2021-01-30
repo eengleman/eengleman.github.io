@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Module 3
+description: Landing Page for Module 3 Assignment
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
